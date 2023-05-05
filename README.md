@@ -1,4 +1,4 @@
-The calculator-express Github repository is an interactive calculator built with Express.js. Here are the steps to run this application:
+The bmi-calculator-express Github repository is an interactive bmi calculator built with Express.js. Here are the steps to run this application:
 
 1. Clone the repository to your local machine by running the following command in your terminal:
 
